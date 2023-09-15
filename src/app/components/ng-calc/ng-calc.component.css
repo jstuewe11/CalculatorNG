@@ -1,0 +1,6 @@
+.container-fluid{
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 15%;
+}
